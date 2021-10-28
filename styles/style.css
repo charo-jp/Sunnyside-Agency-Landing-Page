@@ -28,13 +28,6 @@ header .top {
   /* Smartphone Layout*/
 }
 
-header .top .site-name {
-  font-family: 'Barlow', sans-serif;
-  font-weight: 600;
-  color: white;
-  font-weight: 900;
-}
-
 header .top .list {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -367,7 +360,7 @@ main .six-tiles .text-bottom p {
   }
 }
 
-main .client-section h1 {
+main .client-section .member-intro {
   /* 700 or 900 */
   font-family: 'Fraunces', serif;
   font-weight: 700;
@@ -486,7 +479,7 @@ footer .footer-content {
   color: #458c7e;
 }
 
-footer .footer-content h1 {
+footer .footer-content h2 {
   font-family: 'Barlow', sans-serif;
   font-weight: 600;
   padding: 50px 0 30px;
